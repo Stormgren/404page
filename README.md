@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404page}</h1>
+<h1 align="center">404page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -35,18 +35,15 @@
 <!-- OVERVIEW -->
 
 ## Overview
+
+A simple responsive error 404 page
+
 Dekstop overview
 ![screenshot](https://user-images.githubusercontent.com/36208308/102003474-4022fe80-3d08-11eb-80e0-68ee12160273.png)
 
 Resoponsive overview
 ![screenshot](https://user-images.githubusercontent.com/36208308/102003491-7791ab00-3d08-11eb-8d76-ce8f659afd08.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
@@ -61,5 +58,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/Stormgren})
+- GitHub [@Stormgren](https://{github.com/Stormgren})
 
